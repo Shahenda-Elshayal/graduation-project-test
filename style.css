@@ -44,3 +44,41 @@
 .weight-900 {
   font-weight: 900;
 }
+
+/* Common Card Style */
+.font-card {
+  border-radius: 16px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  background-color: #fefefe;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.font-card.outfit {
+  font-family: "Outfit", sans-serif;
+  color: #333;
+  background-color: #f0f4ff;
+}
+.font-card.sour-gummy {
+  font-family: "Sour Gummy", sans-serif;
+  color: #2c2c2c;
+  background-color: #fff3e0;
+}
+/* Button Style */
+.font-card button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #ff8a65;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.font-card button:hover {
+  background-color: #ff7043;
+}
