@@ -58,12 +58,12 @@
 
 .font-card.outfit {
   font-family: "Outfit", sans-serif;
-  color: #333;
+  /* color: #333; */
   background-color: #f0f4ff;
 }
 .font-card.sour-gummy {
   font-family: "Sour Gummy", sans-serif;
-  color: #2c2c2c;
+  /* color: #2c2c2c; */
   background-color: #fff3e0;
 }
 /* Button Style */
@@ -82,3 +82,7 @@
 .font-card button:hover {
   background-color: #ff7043;
 }
+
+/* #f8f7e7 */
+/* #CE345B */
+/* #032444 */
